@@ -3,3 +3,6 @@ description: Planing and documentation
 theme: just-the-docs
 
 url: https://kinderartikelboerse-denkingen.github.io/services-docs
+
+aux_links:
+  This Repository: https://github.com/Kinderartikelboerse-Denkingen/services-docs
